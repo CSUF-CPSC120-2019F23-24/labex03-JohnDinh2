@@ -43,7 +43,7 @@ int main()
   float my_int = 302;
   std::cout << my_int << ' ' << sizeof(my_int) << '\n';
 
-  double amount = 9.9;
+  short amount = 111;
   std::cout << "A short is stored in " << sizeof(short) << " bytes\n";
   std::cout << "The variable \"amount\" is stored in " << sizeof(amount) << " bytes\n";
 
